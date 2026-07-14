@@ -1,0 +1,7 @@
+keyboard>=0.13.5
+mss>=9.0.2
+Pillow>=10.4.0
+pystray>=0.19.5
+pywin32>=306
+imageio[ffmpeg]>=2.34.0
+numpy>=1.26.0
